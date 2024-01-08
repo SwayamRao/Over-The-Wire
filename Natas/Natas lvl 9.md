@@ -5,6 +5,7 @@ So when we give needle, make sure to observe the search box.
 Now there is execution of the code 
    passthru("grep -i test dictionary.txt");
 Here we can do command injection to get into the root directory and get the password.
+
 ----------------------------------------
 Password : D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE
 ----------------------------------------
